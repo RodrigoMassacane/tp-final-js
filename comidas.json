@@ -1,0 +1,101 @@
+[
+    {   
+    "id" : 1 ,
+    "comida" :"asado" ,
+    "precio" : 1000 ,
+    "imagen" : "img/asadito.jpg",
+    "cantidad":0
+    },
+    
+    {
+     "id" : 2 ,
+     "comida" :"lomoconpapas" ,
+     "precio" : 1200 , 
+     "imagen" :  "img/lomo.png",
+     "cantidad":0
+    },
+
+    {
+      "id" : 3 ,
+      "comida" : "rabas" , 
+      "precio" : 800 , 
+      "imagen" : "img/rabas.png",
+       "cantidad":0
+    },
+
+    {
+      "id" : 4 ,
+      "comida" : "fideos" ,
+      "precio" : 600 ,
+      "imagen" : "img/fideos.png",
+      "cantidad":0
+    },
+
+    {
+      "id" : 5 , 
+      "comida" : "milanesa" ,
+      "precio" : 1400 , 
+      "imagen" : "img/milanesa.png",
+      "cantidad":0
+    },
+          
+    {
+        "id" : 6 , 
+        "comida" : "cordero" ,
+        "precio" : 2000 , 
+        "imagen" : "img/cordero.png",
+        "cantidad":0
+      },
+
+      {
+        "id" : 7 , 
+        "comida" : "coca cola" ,
+        "precio" : 100 , 
+        "imagen" : "img/cocacola.jfif",
+        "cantidad":0
+      },
+    
+      {
+        "id" : 8 , 
+        "comida" : "fanta" ,
+        "precio" : 120 , 
+        "imagen" : "img/fanta.jpg",
+         "cantidad":0
+      },
+    
+      {
+        "id" : 9 , 
+        "comida" : "agua mineral" ,
+        "precio" : 80 , 
+        "imagen" : "img/agua mineral.jpg",
+        "cantidad":0
+      },
+    
+      {
+        "id" : 10 , 
+        "comida" : "jugo de naranja ",
+        "precio" : 150, 
+        "imagen" : "img/jugo-de-naranja-500x500.jpg",
+        "cantidad":0
+      },
+
+      {
+        "id" : 12 , 
+        "comida" : "choco torta",
+        "precio" : 550, 
+        "imagen" : "img/chocotorta-tarta-de-galletas-y-dulce-de-leche.jpg",
+        "cantidad":0
+      },
+    
+      {
+        "id" : 13 , 
+        "comida" : "panqueques",
+        "precio" : 600 , 
+        "imagen" : "img/panqueques.jpg",
+        "cantidad":0
+      }
+]
+
+
+
+
